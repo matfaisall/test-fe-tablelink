@@ -4,7 +4,7 @@
 
 1. Clone this repo
 ```json
-http.....
+https://github.com/matfaisall/test-fe-tablelink.git
 ```
 
 2. install all dependencies
